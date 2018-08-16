@@ -39,3 +39,10 @@ var minMeetingRooms = function(intervals) {
   }
   return res
 }
+
+var data = [
+  {start: 9, end: 12},
+  {start: 2, end: 7},
+  {start: 5, end: 17},
+  {start: 12, end: 17},
+]
